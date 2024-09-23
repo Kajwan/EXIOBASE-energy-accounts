@@ -1,0 +1,38 @@
+# Data
+*.mat
+*.xlsx
+*.xls
+*.csv
+*.txt
+*.docx
+*.pdf
+*.zip
+
+# Data to include
+!data/**/*.xlsx
+!data/**/*.txt
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+*.so
+.env
+.venv
+env/variables.env
+*.swp
+*.pyc
+
+# Matlab
+*.asv
+*.m~
+*.mex*
+.autosave
+octave-workspace
+slprj/
+
+# VScode
+.vscode
+
+# Others
+.idea
