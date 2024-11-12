@@ -18,3 +18,5 @@ Besides the four scripts, two Python modules are required. One that is MRIO spec
 The procedure relies on the [country converter package](https://pypi.org/project/country-converter/) for mapping countries. If the official version of the package is not updated to your needs, you ned to modify 
 
 The code tries to adhere to the *pycodestyle* linter, but ignores maximum line length in some cases.
+
+[Reach out for more information](www.xio-sa.com)
